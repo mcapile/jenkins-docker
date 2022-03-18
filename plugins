@@ -1,0 +1,17 @@
+workflow-api:2.26
+jira:2.5
+ssh-agent:1.15
+dashboard-view:2.9.11
+pipeline-model-extensions:1.2.7
+git-server:1.7
+blueocean-rest-impl:1.4.2
+timestamper:1.8.9
+blueocean-config:1.4.2
+external-monitor-job:1.7
+cobertura:1.12
+workflow-support:2.18
+build-name-setter:1.6.9
+gitlab-hook:1.4.2
+saferestart:0.3
+build-pipeline-plugin:1.5.8
+jenkins-design-language:1.4.2
